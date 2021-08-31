@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raghusahay
-- 👀 I’m interested in API testing , Automtion testing, automated test data generation and CICD automation
+- 👀 I’m interested in API testing , Automation testing, automated test data generation and CICD automation
 - 🌱 I’m currently learning API testing framework and voice support automations.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me raghusahay@gmail.com
